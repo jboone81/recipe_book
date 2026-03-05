@@ -26,7 +26,7 @@ final List<Recipe> sampleRecipes = [
     instructions: 'Mix all ingredients into batter. Pour onto a hot pan and cook until bubbles form. Flip and cook the other side.',
   ),
   Recipe(
-    name: 'Salad'
+    name: 'Salad',
     imagePath: 'assets/images/salad.jpg',
     ingredients: ['Romaine Lettuce', 'Croutons', 'Parmesan Cheese', 'Cesar Dressing'],
     instructions: 'Chop lettuce and place in a bowl. Add croutons and parmesan. Toss with Caesar dressing and serve.',
